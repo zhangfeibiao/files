@@ -1,10 +1,6 @@
-![image.png](assets/20210125105700-c2n0c47-image.png)
 {: id="20210125105402-lxtv96e"}
 
-[test.md](assets/20210125105737-2z6luuc-test.md)
-{: id="20210125105722-vel7xyd"}
-
-{: id="20210125105740-7knhel7"}
+{: id="20210125105909-bn6szhr"}
 
 
 {: id="20210125105013-9nicr4v" type="doc"}
